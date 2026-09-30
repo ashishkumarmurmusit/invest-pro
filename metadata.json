@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Nexus Rewards \u0026 Commerce Platform",
+  "description": "Modern responsive digital rewards, e-commerce, wallet recharge and withdrawal platform with comprehensive private admin panel and live theme manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
